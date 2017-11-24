@@ -3,7 +3,7 @@
     header("Content-type: application/json");
     $header = array();
     $header[] = "Content-type: application/json";
-    $pass = "nlyon:vbx364e2";
+    $pass = "nlyon:*********";
 
     $textOptions = urlencode($_GET["text"]); // test in url :: *.php?text=some_username
    //$textOptions = urlencode($_POST["text"]); 
